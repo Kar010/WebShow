@@ -1,0 +1,29 @@
+.tools .container{
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border: 1px solid rgba(209, 218, 224, 0.1);
+  border-radius: 30px;
+  background-color: rgba(209, 218, 224, 0.5);
+
+}
+
+
+
+  h2{
+
+    text-align: center;
+    text-transform: uppercase;
+    @import url(https://fonts.googleapis.com/css?family=Bungee);
+    font-family: 'Bungee', cursive;
+  }
+
+.progress .progress-bar {
+transition: width 6s ease-in-out !important;
+}
+.fab{
+  font-size: 70px;
+}
+.row + .row{
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
